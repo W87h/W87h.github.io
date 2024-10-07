@@ -1,4 +1,4 @@
-<h3> # Portugal-Kolonien </h3>
+<h1> # Portugal-Kolonien </h1>
 
 Kolonien Portugals in Afrika um 1914
 
